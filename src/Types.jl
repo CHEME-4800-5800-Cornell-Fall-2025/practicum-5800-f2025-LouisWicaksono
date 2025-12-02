@@ -1,5 +1,3 @@
-# Types.jl
-
 """
     MyClassicalHopfieldNetworkModel
 
